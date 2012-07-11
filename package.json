@@ -16,7 +16,7 @@
     ]
   , "dependencies": {
         "debug": "0.6.0"
-      , "ws": "0.4.25"
+      , "ws": "git://github.com/ruxkor/ws.git"
       , "engine.io-parser": "0.3.0"
       , "base64id": "0.1.0"
     }
@@ -24,7 +24,7 @@
         "mocha": "*"
       , "expect.js": "*"
       , "superagent": "*"
-      , "engine.io-client": "0.6.3"
+      , "engine.io-client": "git://github.com/pokermania/engine.io-client.git"
       , "s": "*"
     }
   , "scripts" : { "test" : "make test" }
