@@ -15,7 +15,7 @@
         { "name": "Christoph Dorn", "web": "https://github.com/cadorn" }
     ]
   , "dependencies": {
-        "debug": "0.6.0"
+        "debug": "0.7.2"
       , "ws": "git://github.com/ruxkor/ws.git"
       , "engine.io-parser": "0.3.0"
       , "base64id": "0.1.0"
